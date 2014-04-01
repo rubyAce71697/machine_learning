@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1396224334 source:/home/nishant/c++/nearest1/main.cpp
+	<iostream>
+	<math.h>
+	<algorithm>
+
