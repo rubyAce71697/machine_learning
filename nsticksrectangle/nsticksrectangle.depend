@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1396826339 source:/home/nishant/c++/nsticksrectangle/main.cpp
+	<iostream>
+	<math.h>
+
